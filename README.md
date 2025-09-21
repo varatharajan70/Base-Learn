@@ -1,4 +1,4 @@
-# Base-Learn
+# Base-Learn  Telegram : https://t.me/Free_Crypto_AD
 
 🌐 base wallet : https://chromewebstore.google.com/detail/coinbase-wallet-extension/hnfanknocfeofbddgcijnmhnfnkdnaad
 
@@ -13,5 +13,3 @@
 
 🌐 base scan : https://sepolia.basescan.org/
 
-
-Base Guild Roles
