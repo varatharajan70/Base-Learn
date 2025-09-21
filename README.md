@@ -4,8 +4,8 @@
 
 🌐 Chainlist : https://chainlist.org/chain/84532
 
-🌐 Faucet : https://www.alchemy.com/faucets/base-sepolia
-            https://testnets.superbridge.app/?fromChainId=11155111&toChainId=84532
+🌐 Faucet : 1) https://www.alchemy.com/faucets/base-sepolia
+2) https://testnets.superbridge.app/?fromChainId=11155111&toChainId=84532
 
 🌐 base docs : https://docs.base.org/learn/
 
